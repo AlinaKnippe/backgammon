@@ -18,12 +18,8 @@ public class Dice {
 		//dice = new Dice();
 	}
 
-	public int PlayerDice() {
-		
-		
-	}
 	
-	public int doubleDice(){
+	/*public int doubleDice(){
 		
 		Random generator = new Random();
 		int dice1 = generator.nextInt(6) +1;
@@ -34,9 +30,9 @@ public class Dice {
 		for (int n=0; n<2; n++){
 		
 
-			int dice1 = generator.nextInt(6) +1;
+			//int dice1 = generator.nextInt(6) +1;
 			
 			return dice1;
 		}
-	}
+	}*/
 }

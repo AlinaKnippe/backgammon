@@ -49,10 +49,10 @@ public class Player {
 	}
 	
 	
-	public int rolling(){
+	/*public int rolling(){
 		return dice.doubleDice();
 		
-	}
+	}*/
 
 	
 
